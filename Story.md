@@ -6,7 +6,7 @@ Requirement: IaC needs to be utlized for provisioning, entire source code along 
 
 TechStack: Terraform, Jenkins, K8, docker, Git.
 
-Containers: Java web application, Redis, and Postgres
+Containers: Voter-App, Result-App, Redis, and Postgres
 
 Terraform Docs for reference:
 1.https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance#attribute-reference
